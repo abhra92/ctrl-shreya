@@ -23,13 +23,13 @@
     <td valign="top">
       <h3 align="center">Connect with me</h3>
       <p align="right">
-        <a href="https://linkedin.com/in/arnab-senapati" target="_blank">
+        <a href="https://www.linkedin.com/in/shreya-jana-88a9ba371/" target="_blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab-senapati" height="30" width="40" />
         </a>
-        <a href="https://instagram.com/arnabsenapati585" target="_blank">
+        <a href="https://www.instagram.com/lil_me_shreya_" target="_blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnabsenapati585" height="30" width="40" />
         </a>
-        <a href="https://www.leetcode.com/arnab_senapati25" target="_blank">
+        <a href="https://leetcode.com/shreya_jana25" target="_blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnab_senapati25" height="30" width="40" />
         </a>
       </p>
