@@ -98,10 +98,10 @@
 </p>
 
 <p align="center">
-  <img
+  <!-- <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=ctrl-shreya&theme=github-dark"
     alt="GitHub Activity Graph"
-  />
+  /> -->
 </p>
 
 <!-- <p align="center">
